@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/tidwall/kvbench"
+	"github.com/smallnest/kvbench"
 	"github.com/tidwall/redlog"
 )
 
