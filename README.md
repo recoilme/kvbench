@@ -22,6 +22,7 @@ Features:
   - [pebble](https://github.com/petermattis/pebble)
   - [pogreb](https://github.com/akrylysov/pogreb)
   - [nutsdb](https://github.com/xujiajun/nutsdb)
+  - [sniper](https://github.com/recoilme/sniper)
   - map (in-memory) with [AOF persistence](https://redis.io/topics/persistence)
   - btree (in-memory) with [AOF persistence](https://redis.io/topics/persistence)
 - Option to disable fsync
